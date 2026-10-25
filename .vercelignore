@@ -1,0 +1,7 @@
+site
+node_modules
+.git
+artifacts
+tests
+README.md
+.env*

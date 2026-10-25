@@ -1,0 +1,10 @@
+node_modules/
+.vercel/
+.env*
+!.env.example
+site/
+dist/
+artifacts/
+
+.vercel
+.env*
