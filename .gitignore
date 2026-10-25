@@ -5,6 +5,8 @@ node_modules/
 site/
 dist/
 artifacts/
+.agents/
+skills-lock.json
 
 .vercel
 .env*

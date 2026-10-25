@@ -5,3 +5,5 @@ artifacts
 tests
 README.md
 .env*
+.agents
+skills-lock.json
